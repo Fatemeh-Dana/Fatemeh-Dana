@@ -1,9 +1,31 @@
-# Book Ease Booking System
+# Hi, I'm Fateme 👋
+
+I am a Software Engineering graduate with experience building full-stack web applications using Java, Spring Boot, Vue.js, MySQL, REST APIs, authentication, and software testing.
+
+I enjoy working on backend development, database design, API development, performance improvement, and building clean, user-focused applications.
+
+## 💻 Technical Skills
+
+- Java
+- Spring Boot
+- Vue.js
+- JavaScript
+- HTML / CSS
+- MySQL / MariaDB
+- REST APIs
+- JWT Authentication
+- Software Testing
+- Git / GitHub
+- AWS Basics
+- C# Basics
+
+## 🚀 Featured Projects
+
+### Book Ease Booking System
 
 A full-stack salon and beauty booking system built as my final year university project.
 
-## Technologies Used
-
+Technologies used:
 - Vue 3
 - Spring Boot
 - MySQL
@@ -11,31 +33,28 @@ A full-stack salon and beauty booking system built as my final year university p
 - JWT Authentication
 - REST APIs
 
-## Main Features
-
+Key features:
 - Customer registration and login
-- Salon service booking
+- Salon booking system
 - Admin management area
 - Role-based access control
-- Ownership-based access control
 - Booking validation to prevent overlapping appointments
-- Secure REST API backend
+- Secure backend API structure
 
-## Project Structure
+### Full-Stack Web Application
 
-- Frontend: Vue 3
-- Backend: Spring Boot
-- Database: MySQL
+A university full-stack project using frontend and backend technologies to build a complete web application.
 
-## Screenshots
+### Travel Log Mobile App
 
-Add screenshots here.
+A mobile application project built using C# for recording and managing travel log entries.
 
-## What I Learned
+## 🎓 Education
 
-- Building full-stack applications
-- Creating REST APIs
-- Using JWT authentication
-- Designing database relationships
-- Applying role-based access control
-- Testing and validating booking logic
+BSc Software Engineering  
+Manchester Metropolitan University
+
+## 📫 Contact
+
+- LinkedIn: add your LinkedIn link here
+- Email: add your email here
